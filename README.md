@@ -1,2 +1,2 @@
 # Digital-Communications Project
-The goal of the project was to design a Predistortion and Adaptation system in MATLAB/SIMULINK. The repo includes files for the project and the source code.
+The goal of the project was to design a Predistortion and Adaptation System in MATLAB/SIMULINK in order to compensate for the distortion caused by a non-linearity of an amplifier. The main idea is to use a pre-distorter before an amplifier which will compensate for its non-linearity and use the cascade of them to linearize the signal within a certain region. Adaptation is implemented in order to achieve the proper pre-distorter gain. The repo includes files for the project and the source code.
