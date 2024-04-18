@@ -1,16 +1,6 @@
 
 <h1 align="center">Predistortion and Adaptation System Project</h1>
 
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Digital Communications 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
 
 # Digital Communication 2 Project
 
@@ -21,7 +11,7 @@ Welcome to the Digital Communications 2 project repository offered at Politecnic
 To run this project, you will need MATLAB and Simulink installed on your system. Simply clone this repository to your local machine:
 
 
-## :checkered_flag: Starting ##
+## Starting ##
 
 ```bash
 # Clone this project
@@ -44,7 +34,7 @@ $ cd digital-communications
 - **Simulink**: Houses the SIMULINK model (`project_simulink.slx`) of the predistortion and adaptation system.
 
 
-## :memo: License ##
+## License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
